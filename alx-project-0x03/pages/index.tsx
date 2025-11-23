@@ -1,3 +1,5 @@
+import { PageRouteProps } from '../interface';
+
 const Home = () => {
   return <h1> Welcome to Splash App </h1>;
 };
