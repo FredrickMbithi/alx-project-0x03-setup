@@ -1,3 +1,7 @@
+# alx-project-0x03-setup
+
+Custom Next.js (Pages Router) project implementing shared layouts, imperative routing, centralized interfaces, Tailwind CSS styling, and react-icons.
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
